@@ -1,2 +1,1 @@
 # OTUS
-Hello, world!
